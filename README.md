@@ -2,10 +2,6 @@
 
 > End-to-end mortgage analytics pipeline analyzing Freddie Mac single-family loan data to surface delinquency risk, borrower behavior patterns, and refinance signals — mirroring the analytics workflows used by mortgage servicers.
 
-## Demo
-🎥 [Watch the dashboard walkthrough](#) — *add your Loom link here after recording*
-
-📊 [View live Tableau dashboard](#) — *add your Tableau Public link here*
 
 ---
 
